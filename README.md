@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **frontend and backend development**
 
-- 👨‍💻 All of my projects are available at https://felixkunda.github.io/Portifolio/
+- 👨‍💻 All of my projects are available at https://felixkunda.github.io/Portfolio/
 - 📫 How to reach me **Felixkunda83@gmail.com**
 
 - 📄 Know about my experiences [resume coming soon](resume coming soon)
